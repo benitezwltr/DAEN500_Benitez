@@ -1,0 +1,6 @@
+import math
+x = 3
+y = 20
+z = 400
+score = (x * y) + math.sqrt(400)
+print(score)
